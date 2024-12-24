@@ -117,7 +117,7 @@
                 </li>
                 <li>
                     <a href="banh-da-cua-haiphong.html">
-                        <img src="https://bepxua.vn/wp-content/uploads/2021/05/banh-da-cua-hai-phong.jpg" alt="Bánh đa cua Hải Phòng">
+                        <img src="https://file.hstatic.net/200000325181/file/banh_da_cua_da8a05b1595142febf5c8c2955cf9fd3_grande.jpg" alt="Bánh đa cua Hải Phòng">
                         <p>Bánh đa cua Hải Phòng</p>
                     </a>
                 </li>
